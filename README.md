@@ -4,6 +4,7 @@ I'm currently an unemployed software engineer. I also do devops stuff if that ma
 
 # Recent news
 
+- 2024-08-30: Writing zlox, a lox bytecode VM in zig.
 - 2024-08-03: Now doing ziglings.
 - 2024-08-02: Redone a rustlings pass.
 - 2024-07-20: I wrote a .git/objects parser to learn git internals.

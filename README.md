@@ -1,9 +1,10 @@
 Hello, I'm mycroft!
 
-I'm currently an unemployed software engineer. I also do devops stuff if that matters.
+Recently found a new job. Quite busy so hang on!
 
 # Recent news
 
+- 2024-11-17: I wrote a lobste.rs RSS to Bluesky bot
 - 2024-08-30: Writing zlox, a lox bytecode VM in zig.
 - 2024-08-03: Now doing ziglings.
 - 2024-08-02: Redone a rustlings pass.

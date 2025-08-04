@@ -10,5 +10,6 @@ Welcome on my github profile page! I'm a french guy who codes!
 
 ## Social
 
-- [Linkedin](https://www.linkedin.com/in/patrickmarie/)
+🌐 [My website](https://mkz.me/)
+📌 [Linkedin](https://www.linkedin.com/in/patrickmarie/)
 

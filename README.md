@@ -11,9 +11,10 @@ Welcome on my github profile page! I'm a french guy who codes!
 ## 🛠️ Skills
 
 - _Languages_: Golang, Rust, Python, C
-- _Databases_: PostgreSQL, Redis, InfluxDB
+- _Databases_: PostgreSQL, MySQL, Cassandra/ScyllaDB, Redis
+- _Observability_: Prometheus, Grafana, Alertmanager
 - _Tools_: Docker, Kubernetes, Terraform, Ansible
-- _Cloud_: AWS
+- _Cloud & Systems_: AWS, Debian Linux/Fedora
 
 ---
 

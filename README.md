@@ -17,6 +17,13 @@ Welcome on my github profile page! I'm a french guy who codes!
 
 ---
 
+## 🌱 Projects
+
+- [k8s-home: My homelab's kubernetes configuration](https://github.com/mycroft/k8s-home)
+
+
+---
+
 ## 🌟 Social
 
 - 👾 [My website](https://mkz.me/)

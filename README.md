@@ -21,6 +21,7 @@ Welcome on my github profile page! I'm a french guy who codes!
 ## 🚀 Projects
 
 - [k8s-home: My homelab's kubernetes configuration](https://github.com/mycroft/k8s-home)
+- [nix-home-env: My home-manager/dotfiles configuration](https://github.com/mycroft/nix-home-env)
 
 
 ---

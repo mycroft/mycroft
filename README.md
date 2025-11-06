@@ -6,6 +6,8 @@ Welcome on my github profile page! I'm a french guy who codes!
 
 🌱 I'm currently technical lead of [Custocy](https://custocy.com), a company that's building an AI based Network Detection & Response project.
 
+🔍 I'm also looking for new opportunities! Feel free to reach out if you want to collaborate on something cool.
+
 ---
 
 ## 🛠️ Skills
@@ -21,9 +23,9 @@ Welcome on my github profile page! I'm a french guy who codes!
 ## 🚀 Projects
 
 - [k8s-home: My homelab's kubernetes configuration](https://github.com/mycroft/k8s-home)
+- [aika-rs: AI-based coding helper CLI tool](https://github.com/mycroft/aika-rs)
 - [nix-home-env: My home-manager/dotfiles configuration](https://github.com/mycroft/nix-home-env)
 - [challenges: All coding challenges done the past few years](https://github.com/mycroft/challenges)
-
 
 ---
 

@@ -4,9 +4,9 @@ Welcome on my github profile page! I'm a french guy who codes!
 
 ---
 
-🌱 I'm currently technical lead of [Custocy](https://custocy.com), a company that's building an AI based Network Detection & Response project.
+🌱 I was previously technical lead of [Custocy](https://custocy.com), a company building an AI based Network Detection & Response project. I left in January 2026 and am currently looking for a new opportunity.
 
-🔍 I'm also looking for new opportunities! Feel free to reach out if you want to collaborate on something cool.
+🔍 Open to new opportunities! Feel free to reach out if you want to collaborate on something cool.
 
 ---
 
